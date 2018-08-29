@@ -48,7 +48,7 @@ services:
   influxdb:
     container_name: influxdb
     restart: unless-stopped
-    image: influxdb
+    image: influxdb:latest
     volumes:
       - /srv/docker/influxdb/influxdb.conf:/etc/influxdb/influxdb.conf:ro
       - /srv/docker/influxdb/db:/var/lib/influxdb
