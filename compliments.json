@@ -1,12 +1,12 @@
 {
 "morning": [
-"Good morning!",
-"Enjoy your day!",
+"God morgon!",
+"Ha en bra dag!",
 "How was your sleep?"
 ],
 "afternoon": [
-"Hello, sunshine!",
-"You're looking great!",
+"Ha en bra dag!",
+"Du ser strålande ut!",
 "Keep up the good work!"
 ],
 "evening": [
@@ -15,8 +15,8 @@
 "You did great today!"
 ],
 "anytime": [
-"Hey there!",
-"You're awesome!",
+"Hej!",
+"Du är grym!",
 "Keep smiling!"
 ],
 "weather": {
