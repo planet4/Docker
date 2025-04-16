@@ -1,18 +1,40 @@
 {
-  "anytime": ["Du ser strålande ut!"],
-  "morning": [
-    "Good morning, sunshine!",
-    "Who needs coffee when you have your smile?",
-    "Godmorgon"
-  ],
-  "afternoon": [
-    "Hitting your stride!",
-    "You are making a difference!",
-    "You're more fun than bubble wrap!"
-  ],
-  "evening": [
-    "You made someone smile today, I know it.",
-    "You are making a difference.",
-    "The day was better for your efforts."
-  ]
+"morning": [
+"Good morning!",
+"Enjoy your day!",
+"How was your sleep?"
+],
+"afternoon": [
+"Hello, sunshine!",
+"You're looking great!",
+"Keep up the good work!"
+],
+"evening": [
+"Wow, you look amazing!",
+"Have a nice evening!",
+"You did great today!"
+],
+"anytime": [
+"Hey there!",
+"You're awesome!",
+"Keep smiling!"
+],
+"weather": {
+"sunny": [
+"It's a bright and sunny day!",
+"Don't forget your sunglasses!"
+],
+"rainy": [
+"Don't forget your umbrella!",
+"Stay dry out there!"
+],
+"snowy": [
+"Time to build a snowman!",
+"Stay warm and cozy!"
+],
+"cloudy": [
+"Looks like a cloudy day!",
+"Perfect weather for a walk!"
+]
+}
 }
