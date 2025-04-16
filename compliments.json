@@ -2,39 +2,64 @@
 "morning": [
 "God morgon!",
 "Ha en bra dag!",
-"How was your sleep?"
+"Hur sov du?"
 ],
 "afternoon": [
-"Ha en bra dag!",
-"Du ser strålande ut!",
-"Keep up the good work!"
+"Hej, solsken!",
+"Du ser fantastisk ut!",
+"Fortsätt med det goda arbetet!"
 ],
 "evening": [
-"Wow, you look amazing!",
-"Have a nice evening!",
-"You did great today!"
+"Wow, du ser fantastisk ut!",
+"Ha en trevlig kväll!",
+"Du gjorde ett bra jobb idag!"
 ],
 "anytime": [
-"Hej!",
-"Du är grym!",
-"Keep smiling!"
+"Hej där!",
+"Du är fantastisk!",
+"Fortsätt le!"
 ],
 "weather": {
 "sunny": [
-"It's a bright and sunny day!",
-"Don't forget your sunglasses!"
+"Det är en ljus och solig dag!",
+"Glöm inte dina solglasögon!"
 ],
 "rainy": [
-"Don't forget your umbrella!",
-"Stay dry out there!"
+"Glöm inte ditt paraply!",
+"Håll dig torr där ute!"
 ],
 "snowy": [
-"Time to build a snowman!",
-"Stay warm and cozy!"
+"Dags att bygga en snögubbe!",
+"Håll dig varm och mysig!"
 ],
 "cloudy": [
-"Looks like a cloudy day!",
-"Perfect weather for a walk!"
+"Det ser ut att bli en molnig dag!",
+"Perfekt väder för en promenad!"
+],
+"partly-cloudy": [
+"Det är delvis molnigt idag!",
+"Njut av vädret!"
+],
+"thunderstorm": [
+"Det är åskväder ute!",
+"Håll dig säker inomhus!"
+],
+"foggy": [
+"Det är dimmigt idag!",
+"Kör försiktigt!"
+],
+"windy": [
+"Det blåser mycket idag!",
+"Håll i hatten!"
+],
+"hail": [
+"Det haglar ute!",
+"Var försiktig!"
+],
+"sleet": [
+"Det är snöblandat regn idag!",
+"Håll dig varm!"
 ]
 }
 }
+
